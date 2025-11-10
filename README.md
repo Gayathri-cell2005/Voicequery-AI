@@ -17,4 +17,4 @@ It listens to your speech, converts it into SQL queries, executes them on an SQL
 - PyAudio
 
 🛠 How to Run
-python voicequery.py
+- python voicequery.py
