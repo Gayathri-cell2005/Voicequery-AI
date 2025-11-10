@@ -10,11 +10,13 @@ It listens to your speech, converts it into SQL queries, executes them on an SQL
 - 🗣 Responds using text-to-speech (TTS)
 
 🧩 Technologies Used
-- Python
-- SQLite3
-- SpeechRecognition
-- Pyttsx3
-- PyAudio
+- Python -- 3.11+
+- SQLite3 -- database
+- SpeechRecognition -- voice input
+- Pyttsx3 -- text to speech
+- PyAudio -- voice recognition
+- Streamlit -- simple UI
 
 🛠 How to Run
+# bash
 - python voicequery.py
